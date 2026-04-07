@@ -5,17 +5,17 @@
 ### 📊 Stats Dashboard
 
 <!-- STATS_START -->
-![Total Problems](https://img.shields.io/badge/Total_Solved-1-brightgreen?style=for-the-badge)
+![Total Problems](https://img.shields.io/badge/Total_Solved-2-brightgreen?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current_Streak-1_Days-orange?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge)
 
 **🎯 Progress Tracker:**
 ```
-░░░░░░░░░░░░░░░░░░░░ 1 problems solved
+░░░░░░░░░░░░░░░░░░░░ 2 problems solved
 ```
 
 **📈 Difficulty Breakdown:**
-- 🟢 Easy: 1
+- 🟢 Easy: 2
 - 🟡 Medium: 0
 - 🔴 Hard: 0
 <!-- STATS_END -->
@@ -28,6 +28,7 @@
 | # | Problem | Topic | Difficulty | Date |
 |---|---------|-------|------------|------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays | 🟢 Easy | 2026-04-07 |
+| 2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Strings | 🟢 Easy | 2026-04-07 |
 <!-- RECENT_END -->
 
 ---
@@ -38,7 +39,7 @@
 | Topic | Problems Solved | Status |
 |:------|:----------------|:-------|
 | Arrays | 1 | 🟡 Learning |
-| Strings | 0 | ⚪ Not Started |
+| Strings | 1 | 🟡 Learning |
 | Linked Lists | 0 | ⚪ Not Started |
 | Trees | 0 | ⚪ Not Started |
 | Graphs | 0 | ⚪ Not Started |
