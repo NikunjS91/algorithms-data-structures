@@ -1,0 +1,24 @@
+{
+  "name": "dsa-cracker",
+  "version": "1.0.0",
+  "description": "Daily DSA problem solving journey with JavaScript - tracking progress and building problem-solving intuition",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node scripts/update-readme.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "dsa",
+    "data-structures",
+    "algorithms",
+    "leetcode",
+    "javascript",
+    "problem-solving"
+  ],
+  "author": "Nikunj Shetye",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/DSA-Cracker.git"
+  }
+}
