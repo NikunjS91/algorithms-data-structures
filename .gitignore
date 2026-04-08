@@ -27,3 +27,4 @@ Thumbs.db
 *.log
 coverage/
 .nyc_output/
+GITHUB_SETUP.md
